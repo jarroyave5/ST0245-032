@@ -11,5 +11,5 @@ public abstract class Digraph
    public abstract int getWeight(int source, int destination);
    public  int size() {
        return size;
-    }
+   }
 }
